@@ -4,7 +4,7 @@
 
 把不同网页上的选文收进同一张便签，边读边在侧栏写 Markdown。便签自动保存在当前浏览器，无需注册。
 
-[在 Microsoft Edge 安装](https://microsoftedge.microsoft.com/addons/detail/gbdkmbpkohjgllliieeoflcpilehceob) · [下载扩展 ZIP](https://github.com/kiritokun07/kitten-notes/releases/latest)
+[在 Microsoft Edge 安装](https://microsoftedge.microsoft.com/addons/detail/gbdkmbpkohjgllliieeoflcpilehceob) · [在 Chrome 安装](https://chromewebstore.google.com/detail/amcikahiikmpgigcpdpambnknljdiaoe) · [下载扩展 ZIP](https://github.com/kiritokun07/kitten-notes/releases/latest)
 
 ## 从摘录到导出
 

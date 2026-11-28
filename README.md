@@ -4,7 +4,7 @@ English · [简体中文](README.zh-CN.md)
 
 Collect passages from different web pages in one note and write Markdown alongside the page. Notes are saved automatically in your browser profile. The extension interface is in Simplified Chinese.
 
-[Install on Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/gbdkmbpkohjgllliieeoflcpilehceob) · [Download the extension ZIP](https://github.com/kiritokun07/kitten-notes/releases/latest)
+[Install on Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/gbdkmbpkohjgllliieeoflcpilehceob) · [Install on Chrome](https://chromewebstore.google.com/detail/amcikahiikmpgigcpdpambnknljdiaoe) · [Download the extension ZIP](https://github.com/kiritokun07/kitten-notes/releases/latest)
 
 ## From selection to notebook
 
